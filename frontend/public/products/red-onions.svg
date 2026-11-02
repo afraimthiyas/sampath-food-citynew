@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Red Onions">
+  <defs><radialGradient id="bgg" cx=".5" cy=".38" r=".75"><stop offset="0" stop-color="#fff" stop-opacity=".85"/><stop offset="1" stop-color="#E3F4DA" stop-opacity="0"/></radialGradient></defs>
+  <rect width="400" height="400" fill="#E3F4DA"/><rect width="400" height="400" fill="url(#bgg)"/>
+  <ellipse cx="200" cy="336" rx="104" ry="13" fill="#2b3a4a" fill-opacity=".13"/>
+  <g transform="rotate(12 262 262)">
+      <path d="M255.76 207.4 Q262 173.60000000000002 268.24 207.4 Z" fill="#d9c3a5" stroke="#a88c66" stroke-width="2"/>
+      <path d="M262 207.4 C 288 212.6, 321.8 251.6, 311.4 288 C 301 314, 272.4 316.6, 262 316.6 C 251.6 316.6, 223 314, 212.6 288 C 202.2 251.6, 236 212.6, 262 207.4 Z" fill="#b2477b" stroke="#7d2a55" stroke-width="3"/>
+      <path d="M262 210 Q212.07999999999998 262 249.52 315.56" stroke="#d38ab0" stroke-opacity=".7" stroke-width="2.4" fill="none"/><path d="M262 210 Q237.04 262 255.76 315.56" stroke="#d38ab0" stroke-opacity=".7" stroke-width="2.4" fill="none"/><path d="M262 210 Q262 262 262 315.56" stroke="#d38ab0" stroke-opacity=".7" stroke-width="2.4" fill="none"/><path d="M262 210 Q286.96 262 268.24 315.56" stroke="#d38ab0" stroke-opacity=".7" stroke-width="2.4" fill="none"/><path d="M262 210 Q311.92 262 274.48 315.56" stroke="#d38ab0" stroke-opacity=".7" stroke-width="2.4" fill="none"/>
+      <path d="M238.6 316.6 l-4 12 M262 317.12 l0 14 M282.8 316.6 l4 12" stroke="#a88c66" stroke-width="2.5" stroke-linecap="round"/></g><g transform="rotate(-4 186 232)">
+      <path d="M176.4 148 Q186 96 195.6 148 Z" fill="#d9c3a5" stroke="#a88c66" stroke-width="2"/>
+      <path d="M186 148 C 226 156, 278 216, 262 272 C 246 312, 202 316, 186 316 C 170 316, 126 312, 110 272 C 94 216, 146 156, 186 148 Z" fill="#b2477b" stroke="#7d2a55" stroke-width="3"/>
+      <path d="M186 152 Q109.19999999999999 232 166.8 314.4" stroke="#d38ab0" stroke-opacity=".7" stroke-width="2.4" fill="none"/><path d="M186 152 Q147.6 232 176.4 314.4" stroke="#d38ab0" stroke-opacity=".7" stroke-width="2.4" fill="none"/><path d="M186 152 Q186 232 186 314.4" stroke="#d38ab0" stroke-opacity=".7" stroke-width="2.4" fill="none"/><path d="M186 152 Q224.4 232 195.6 314.4" stroke="#d38ab0" stroke-opacity=".7" stroke-width="2.4" fill="none"/><path d="M186 152 Q262.8 232 205.2 314.4" stroke="#d38ab0" stroke-opacity=".7" stroke-width="2.4" fill="none"/>
+      <path d="M150 316 l-4 12 M186 316.8 l0 14 M218 316 l4 12" stroke="#a88c66" stroke-width="2.5" stroke-linecap="round"/></g>
+</svg>

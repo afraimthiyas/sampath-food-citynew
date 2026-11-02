@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Cinnamon Sticks">
+  <defs><radialGradient id="bgg" cx=".5" cy=".38" r=".75"><stop offset="0" stop-color="#fff" stop-opacity=".85"/><stop offset="1" stop-color="#FBE5DA" stop-opacity="0"/></radialGradient></defs>
+  <rect width="400" height="400" fill="#FBE5DA"/><rect width="400" height="400" fill="url(#bgg)"/>
+  <ellipse cx="200" cy="336" rx="104" ry="13" fill="#2b3a4a" fill-opacity=".13"/>
+  <g transform="translate(-34 0) rotate(-22 200 210)">
+    <rect x="186" y="82" width="28" height="248" rx="14" fill="#a9622b" stroke="#6e401c" stroke-width="3"/>
+    <path d="M192 96 Q200 150 192 210 T192 318" stroke="#76451e" stroke-opacity=".55" stroke-width="3" fill="none"/>
+    <path d="M204 96 Q196 160 204 220 T204 318" stroke="#bf8960" stroke-opacity=".45" stroke-width="3" fill="none"/>
+    <ellipse cx="200" cy="90" rx="11" ry="6" fill="#4a2410"/><ellipse cx="200" cy="90" rx="5" ry="2.6" fill="#8a4a22"/></g><g transform="translate(34 0) rotate(22 200 210)">
+    <rect x="186" y="82" width="28" height="248" rx="14" fill="#b8713a" stroke="#784926" stroke-width="3"/>
+    <path d="M192 96 Q200 150 192 210 T192 318" stroke="#814f29" stroke-opacity=".55" stroke-width="3" fill="none"/>
+    <path d="M204 96 Q196 160 204 220 T204 318" stroke="#ca956b" stroke-opacity=".45" stroke-width="3" fill="none"/>
+    <ellipse cx="200" cy="90" rx="11" ry="6" fill="#4a2410"/><ellipse cx="200" cy="90" rx="5" ry="2.6" fill="#8a4a22"/></g><g transform="translate(-14 0) rotate(-9 200 210)">
+    <rect x="186" y="82" width="28" height="248" rx="14" fill="#bd7a42" stroke="#7b4f2b" stroke-width="3"/>
+    <path d="M192 96 Q200 150 192 210 T192 318" stroke="#84552e" stroke-opacity=".55" stroke-width="3" fill="none"/>
+    <path d="M204 96 Q196 160 204 220 T204 318" stroke="#ce9b71" stroke-opacity=".45" stroke-width="3" fill="none"/>
+    <ellipse cx="200" cy="90" rx="11" ry="6" fill="#4a2410"/><ellipse cx="200" cy="90" rx="5" ry="2.6" fill="#8a4a22"/></g><g transform="translate(16 0) rotate(10 200 210)">
+    <rect x="186" y="82" width="28" height="248" rx="14" fill="#a35a26" stroke="#6a3b19" stroke-width="3"/>
+    <path d="M192 96 Q200 150 192 210 T192 318" stroke="#723f1b" stroke-opacity=".55" stroke-width="3" fill="none"/>
+    <path d="M204 96 Q196 160 204 220 T204 318" stroke="#ba835c" stroke-opacity=".45" stroke-width="3" fill="none"/>
+    <ellipse cx="200" cy="90" rx="11" ry="6" fill="#4a2410"/><ellipse cx="200" cy="90" rx="5" ry="2.6" fill="#8a4a22"/></g><g transform="translate(0 0) rotate(0 200 210)">
+    <rect x="186" y="82" width="28" height="248" rx="14" fill="#c48047" stroke="#7f532e" stroke-width="3"/>
+    <path d="M192 96 Q200 150 192 210 T192 318" stroke="#895a32" stroke-opacity=".55" stroke-width="3" fill="none"/>
+    <path d="M204 96 Q196 160 204 220 T204 318" stroke="#d3a075" stroke-opacity=".45" stroke-width="3" fill="none"/>
+    <ellipse cx="200" cy="90" rx="11" ry="6" fill="#4a2410"/><ellipse cx="200" cy="90" rx="5" ry="2.6" fill="#8a4a22"/></g><rect x="128" y="196" width="144" height="18" rx="6" fill="#c0392b" stroke="#8e2b20" stroke-width="2"/><path d="M270 206 q26 -4 30 14 M270 206 q22 12 18 32" stroke="#c0392b" stroke-width="5" fill="none" stroke-linecap="round"/>
+</svg>

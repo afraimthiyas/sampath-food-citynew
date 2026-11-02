@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Green Chillies">
+  <defs><radialGradient id="bgg" cx=".5" cy=".38" r=".75"><stop offset="0" stop-color="#fff" stop-opacity=".85"/><stop offset="1" stop-color="#E3F4DA" stop-opacity="0"/></radialGradient></defs>
+  <rect width="400" height="400" fill="#E3F4DA"/><rect width="400" height="400" fill="url(#bgg)"/>
+  <ellipse cx="200" cy="336" rx="104" ry="13" fill="#2b3a4a" fill-opacity=".13"/>
+  <g transform="translate(120 96) rotate(-8)">
+      <path d="M0 0 C 26 4, 40 77, 26 154 C 20 193.6, 8 220 , 2 228 C 4 176, -2 110, -14 48.4 C -20 17.6, -12 -2, 0 0 Z" fill="#3bb04d" stroke="#1f7a2e" stroke-width="4" stroke-linejoin="round"/>
+      <path d="M-4 14 C 6 66, 12 121.00000000000001, 6 176" stroke="#fff" stroke-opacity=".35" stroke-width="6" fill="none" stroke-linecap="round"/>
+      <path d="M-18 4 Q0 -14 22 2 Q14 16 0 14 Q-10 14 -18 4 Z" fill="#2f7d32" stroke="#1f5c25" stroke-width="2.5" stroke-linejoin="round"/>
+      <path d="M2 -4 Q4 -20 14 -26" stroke="#1f5c25" stroke-width="6" fill="none" stroke-linecap="round"/></g><g transform="translate(204 84) rotate(10)">
+      <path d="M0 0 C 26 4, 40 80.5, 26 161 C 20 202.4, 8 230 , 2 238 C 4 184, -2 115, -14 50.6 C -20 18.400000000000002, -12 -2, 0 0 Z" fill="#2e9e3f" stroke="#1b6a28" stroke-width="4" stroke-linejoin="round"/>
+      <path d="M-4 14 C 6 69, 12 126.50000000000001, 6 184" stroke="#fff" stroke-opacity=".35" stroke-width="6" fill="none" stroke-linecap="round"/>
+      <path d="M-18 4 Q0 -14 22 2 Q14 16 0 14 Q-10 14 -18 4 Z" fill="#2f7d32" stroke="#1f5c25" stroke-width="2.5" stroke-linejoin="round"/>
+      <path d="M2 -4 Q4 -20 14 -26" stroke="#1f5c25" stroke-width="6" fill="none" stroke-linecap="round"/></g><g transform="translate(168 108) rotate(28)">
+      <path d="M0 0 C 26 4, 40 70, 26 140 C 20 176, 8 200 , 2 208 C 4 160, -2 100, -14 44 C -20 16, -12 -2, 0 0 Z" fill="#d93a2f" stroke="#9a1d15" stroke-width="4" stroke-linejoin="round"/>
+      <path d="M-4 14 C 6 60, 12 110.00000000000001, 6 160" stroke="#fff" stroke-opacity=".35" stroke-width="6" fill="none" stroke-linecap="round"/>
+      <path d="M-18 4 Q0 -14 22 2 Q14 16 0 14 Q-10 14 -18 4 Z" fill="#2f7d32" stroke="#1f5c25" stroke-width="2.5" stroke-linejoin="round"/>
+      <path d="M2 -4 Q4 -20 14 -26" stroke="#1f5c25" stroke-width="6" fill="none" stroke-linecap="round"/></g>
+</svg>

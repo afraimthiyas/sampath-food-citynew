@@ -1,0 +1,9 @@
+import { Role } from '../users/role.enum';
+
+/** The authenticated principal attached to `request.user` by the JWT strategy. */
+export interface AuthUser {
+  id: string;
+  email: string;
+  fullName: string;
+  role: Role;
+}

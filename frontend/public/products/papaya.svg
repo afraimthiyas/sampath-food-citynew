@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Papaya">
+  <defs><radialGradient id="bgg" cx=".5" cy=".38" r=".75"><stop offset="0" stop-color="#fff" stop-opacity=".85"/><stop offset="1" stop-color="#E3F4DA" stop-opacity="0"/></radialGradient></defs>
+  <rect width="400" height="400" fill="#E3F4DA"/><rect width="400" height="400" fill="url(#bgg)"/>
+  <ellipse cx="200" cy="336" rx="104" ry="13" fill="#2b3a4a" fill-opacity=".13"/>
+  
+    <g transform="rotate(-14 150 215)"><ellipse cx="150" cy="218" rx="60" ry="104" fill="#f2a03b" stroke="#c97a1b" stroke-width="4"/>
+    <path d="M118 140 Q150 100 182 140 Q150 178 118 140 Z" fill="#9ccc65" fill-opacity=".8"/>
+    <path d="M122 190 Q116 250 138 306" stroke="#fff" stroke-opacity=".35" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <rect x="144" y="104" width="12" height="20" rx="4" fill="#5d7f2e"/></g>
+    <g transform="rotate(18 268 240)"><ellipse cx="268" cy="240" rx="50" ry="88" fill="#ef8a2b" stroke="#c97a1b" stroke-width="4"/>
+    <ellipse cx="268" cy="240" rx="37" ry="75" fill="#ffb54d"/><ellipse cx="268" cy="240" rx="15" ry="42" fill="#e3671a"/>
+    <circle cx="262" cy="214" r="4.2" fill="#2b1a10"/><circle cx="273" cy="228" r="4.2" fill="#2b1a10"/><circle cx="263" cy="242" r="4.2" fill="#2b1a10"/><circle cx="274" cy="256" r="4.2" fill="#2b1a10"/><circle cx="265" cy="270" r="4.2" fill="#2b1a10"/><circle cx="272" cy="206" r="4.2" fill="#2b1a10"/><circle cx="268" cy="280" r="4.2" fill="#2b1a10"/></g>
+</svg>
